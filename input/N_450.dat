@@ -1,0 +1,6 @@
+10	! Max value for x (typical value: 10)
+450	! Number of grid points (typically a few hundreds)
+res.dat	! Output file name
+3	! Nodes (type -1 to stop)
+0	! Trial energy (0=search with bisection)
+-1	! Nodes (type -1 to stop)
